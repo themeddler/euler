@@ -1,1 +1,1 @@
-These are my solutions to the Euler problem.
+These are my solutions to the Euler problems.
